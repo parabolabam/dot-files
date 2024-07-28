@@ -3,3 +3,8 @@ nvim
 nvim/*
 tmux/plugins
 tmux/.tmux
+github-copilot
+*.log
+lazygit/
+*.bak
+state.yml
