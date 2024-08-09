@@ -1,6 +1,12 @@
 lastupdatecheck: 0
 recentrepos:
 - /Users/parabolabam/.config
+- /Users/parabolabam/.config/nvim
+- /Users/parabolabam/gitlab/diftech/client-web-next
+- /Users/parabolabam/gitlab/diftech/banking
+- /Users/parabolabam
+- /Users/parabolabam/gitlab/diftech/chat-bot-test
+- /Users/parabolabam/gitlab/diftech/nucleus
 startuppopupversion: 5
 customcommandshistory: []
 hidecommandlog: false
