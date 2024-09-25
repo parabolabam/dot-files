@@ -1,12 +1,17 @@
 lastupdatecheck: 0
 recentrepos:
 - /Users/parabolabam/.config
-- /Users/parabolabam/.config/nvim
 - /Users/parabolabam/gitlab/diftech/client-web-next
+- /Users/parabolabam/gitlab/diftech/landing-cms
 - /Users/parabolabam/gitlab/diftech/banking
+- /Users/parabolabam/github/mexo
 - /Users/parabolabam
+- /Users/parabolabam/.config/nvim
+- /Users/parabolabam/.config/nvim.bak/nvim
+- /Users/parabolabam/gitlab/diftech/vlad-gitlab-reminder
+- /Users/parabolabam/gitlab/diftech/gitlab-mr-reminder
 - /Users/parabolabam/gitlab/diftech/chat-bot-test
 - /Users/parabolabam/gitlab/diftech/nucleus
 startuppopupversion: 5
 customcommandshistory: []
-hidecommandlog: false
+hidecommandlog: true
