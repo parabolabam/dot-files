@@ -1,3 +1,4 @@
+
 # Fig pre block. Keep at the top of this file.
 [[ -f "$HOME/.fig/shell/zshrc.pre.zsh" ]] && builtin source "$HOME/.fig/shell/zshrc.pre.zsh"
 # # Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
@@ -154,7 +155,7 @@ zstyle ':completion:*' matcher-list 'm:{a-zA-Z}={A-Za-z}'
 zstyle ':completion:*' menu no
 
 #ALIASES
-alias ls="exa -lha"
+alias ls="eza -lha"
 alias v="nvim"
 alias cat="bat"
 alias "git log"="git log --graph"
