@@ -154,7 +154,7 @@ zstyle ':completion:*' matcher-list 'm:{a-zA-Z}={A-Za-z}'
 zstyle ':completion:*' menu no
 
 #ALIASES
-alias ls="exa -lha"
+alias ls="eza -lha"
 alias v="nvim"
 alias cat="bat"
 alias "git log"="git log --graph"
